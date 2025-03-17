@@ -15,6 +15,7 @@ for sharing + maintaining personal modpack
        + Extra Info
        + From Golden Combs
        + Hanging Oil Lamps
+       + HUD Clock
        + Juicy Ores
        + Millwright
        + More Torch Holders
@@ -22,6 +23,7 @@ for sharing + maintaining personal modpack
        + Prospect Together
        + Real Grapes
        + Stone Quarry
+       + Thermometer
        + ImGui
    - Watchlist (depreciated mods):
        + Carry On
